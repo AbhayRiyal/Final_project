@@ -107,6 +107,7 @@ h1 {
 
 .btn:hover {
   background-color: #ccc;
+
 }
 
 .message {
@@ -116,4 +117,6 @@ h1 {
 
 .label-score {
   margin-bottom: 2rem;
+
 }
+
